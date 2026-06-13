@@ -10,7 +10,6 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 
 | Platform | Link/Contact |
 |----------|-------------|
-| **Phone** | 9912177111 |
 | **Email** | sm1732@srmist.edu.in, suvallivenakataabhiram@gmail.com |
 | **LinkedIn** | [abhiram-muramalla-174780328](https://www.linkedin.com/in/abhiram-muramalla-174780328) |
 | **GitHub** | [Abhiram929](https://github.com/Abhiram929) |
