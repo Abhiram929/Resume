@@ -27,8 +27,8 @@ Computer Science Engineering student specializing in Artificial Intelligence and
 **B.Tech in Computer Science and Engineering (AI & Machine Learning)**  
 SRM Institute of Science and Technology | Kattankulathur, Tamil Nadu
 
-- **Status:** 2nd Year, 3rd Semester (Currently Pursuing)
-- **CGPA:** 9.09/10.0
+- **Status:** 3rd Year, 5th Semester (Currently Pursuing)
+- **CGPA:** 9.29/10.0
 - **Specialization:** Artificial Intelligence & Machine Learning
 
 ---
